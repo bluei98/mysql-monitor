@@ -1,0 +1,5 @@
+{
+    "log": {
+        "slow-query": "/var/log/mysql/mysql-slow.log"
+    }
+}
