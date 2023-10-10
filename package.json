@@ -1,0 +1,24 @@
+{
+  "name": "mysql-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "author": "SungYong, EOM",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluei98/mysql-monitor.git"
+  },
+  "keywords": [
+    "mysql",
+    "monitor",
+    "manage"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluei98/mysql-monitor/issues"
+  },
+  "homepage": "https://github.com/bluei98/mysql-monitor#readme"
+}
